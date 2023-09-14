@@ -1,5 +1,5 @@
 <p align="center">
-  <img  src=".github/Cover.png" alt="Demonstração do projeto" width="80%">
+  <img  src=".github/Cover.png" alt="Demonstração do projeto" width="100%">
 </p>
 
 ## 💻 Shorts-Summary
